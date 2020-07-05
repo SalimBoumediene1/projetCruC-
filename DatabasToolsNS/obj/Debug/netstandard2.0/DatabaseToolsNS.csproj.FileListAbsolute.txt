@@ -1,0 +1,9 @@
+C:\Users\salim\source\repos\DatabasToolsNS\bin\Debug\netstandard2.0\DatabaseToolsNS.deps.json
+C:\Users\salim\source\repos\DatabasToolsNS\bin\Debug\netstandard2.0\DatabaseToolsNS.dll
+C:\Users\salim\source\repos\DatabasToolsNS\bin\Debug\netstandard2.0\DatabaseToolsNS.pdb
+C:\Users\salim\source\repos\DatabasToolsNS\obj\Debug\netstandard2.0\DatabaseToolsNS.csprojAssemblyReference.cache
+C:\Users\salim\source\repos\DatabasToolsNS\obj\Debug\netstandard2.0\DatabaseToolsNS.csproj.CoreCompileInputs.cache
+C:\Users\salim\source\repos\DatabasToolsNS\obj\Debug\netstandard2.0\DatabaseToolsNS.AssemblyInfoInputs.cache
+C:\Users\salim\source\repos\DatabasToolsNS\obj\Debug\netstandard2.0\DatabaseToolsNS.AssemblyInfo.cs
+C:\Users\salim\source\repos\DatabasToolsNS\obj\Debug\netstandard2.0\DatabaseToolsNS.dll
+C:\Users\salim\source\repos\DatabasToolsNS\obj\Debug\netstandard2.0\DatabaseToolsNS.pdb

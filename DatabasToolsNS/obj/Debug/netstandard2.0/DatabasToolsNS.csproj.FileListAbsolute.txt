@@ -1,0 +1,8 @@
+C:\Users\salim\source\repos\DatabasToolsNS\bin\Debug\netstandard2.0\DatabasToolsNS.deps.json
+C:\Users\salim\source\repos\DatabasToolsNS\bin\Debug\netstandard2.0\DatabasToolsNS.dll
+C:\Users\salim\source\repos\DatabasToolsNS\obj\Debug\netstandard2.0\DatabasToolsNS.AssemblyInfoInputs.cache
+C:\Users\salim\source\repos\DatabasToolsNS\obj\Debug\netstandard2.0\DatabasToolsNS.AssemblyInfo.cs
+C:\Users\salim\source\repos\DatabasToolsNS\bin\Debug\netstandard2.0\DatabasToolsNS.pdb
+C:\Users\salim\source\repos\DatabasToolsNS\obj\Debug\netstandard2.0\DatabasToolsNS.csproj.CoreCompileInputs.cache
+C:\Users\salim\source\repos\DatabasToolsNS\obj\Debug\netstandard2.0\DatabasToolsNS.dll
+C:\Users\salim\source\repos\DatabasToolsNS\obj\Debug\netstandard2.0\DatabasToolsNS.pdb
