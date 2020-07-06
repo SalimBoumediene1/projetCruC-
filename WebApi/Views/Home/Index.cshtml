@@ -1,0 +1,18 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+}
+
+    <div class="text-center">
+        <h1 class="display-4">Welcome</h1>
+        <p>Learn about <a href="https://docs.microsoft.com/aspnet/core">building Web apps with ASP.NET Core</a>.</p>
+
+        <input type="button" name="name" value="Liste table formation" onclick="location.href='@Url.Action("formationGetIntList","api")'" />
+
+        <form method="post" asp-controller="HomeController" asp-action="getById" style="margin-top:2%">
+            <div class="form-check cache col-md-12">
+                <input type="number" class="form-check-input" id="number" name="number">
+                <label class="form-check-label" for="cache" style="padding-left:0.5%">quel Id ?</label>
+            </div>
+            <input type="submit" name="recherche_nutton" class="btn" style="background-color:#3c8dbc; color:white ; margin-top:2%" value="Rechercher" />
+        </form>
+    </div>
